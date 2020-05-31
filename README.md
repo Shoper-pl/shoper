@@ -1,5 +1,10 @@
-# NIEOFICJALNY Projekt do śledzenia błędów/problemów/zgłoszeń w Shoper.pl NIEOFICJALNY
-NIEOFICJALNY projekt do śledzenia błędów w aplikacji Shoper.pl firmy Dreamcommerce S.A.
+# NIEOFICJALNY Issue/Request tracker Shoper.pl NIEOFICJALNY
+
+NIEOFICJALNY projekt do śledzenia błędów/zgłoszen w aplikacji Shoper.pl firmy DreamCommerce S.A.
+
+## Dlaczego?
+
+DreamCommerce S.A. nie udostępnia żadnego wglądu do zgłoszeń które do nich trafiają oraz nie przekazuje kompletnie żadnego feedbacku na temat postępu prac nad rzeczami wcześniej zgłoszonymi. W celu lepszego zarządzania i śledzenia problemów powstał ten projekt, otwarty oraz publicznie dostępny gdzie jesteśmy w stanie zweryfikować czy problem na który sami trafiliśmy występuje u innych osób korzystających z wyżej wymienionego oprogramowania.
 
 ## Jak zgłaszać?
 
