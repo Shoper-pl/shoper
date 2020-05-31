@@ -15,5 +15,5 @@ DreamCommerce S.A. nie udostępnia żadnego wglądu do zgłoszeń które do nich
 
 ## Linki
 
-Kontakt Shoper: https://www.shoper.pl/kontakt/
-Grupa klientów Shopera na Facebooku https://www.facebook.com/groups/104213943253099/
+* Kontakt Shoper: https://www.shoper.pl/kontakt/
+* Grupa klientów Shopera na Facebooku https://www.facebook.com/groups/104213943253099/
